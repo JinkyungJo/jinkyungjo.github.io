@@ -1,35 +1,35 @@
 papers:
 
+  - title: "An Integrated Search System for Korea Weather Data"
+    authors: "<b><u>Jingyeong Jo</u></b>, Dayeon Ki, Soyoung Yoon and Minjoon Seo"
+    venue: "EMNLP Industry Track 2023"
+    paper_pdf: ""
+    selected: y
+    
   - title: "Meta-analysis for the National Fiscal Management Plan"
-    image: "/assets/publications/Korea.png"
     venue: "Ministry of Economy and Finance 2021"
     selected: y
 
   - title: "New Economic Policy Uncertainty Indexes for South Korea"
-    image: "/assets/publications/EPU.png"
-    authors: "Geunghee Lee, Joohee Cho*, and <b><u>Jingyeong Jo*</u></b>"
+    authors: "Geunghee Lee*, Joohee Cho*, and <b><u>Jingyeong Jo*</u></b>"
     venue: "The Korean Journal of Applied Statistics 2020"
     paper_pdf: "https://koreascience.kr/article/JAKO202033564390583.page"
     selected: y
 
   - title: "Vision and Strategy of Innovation Growth: Policy, Institution, and Social Foundation"
-    image: "/assets/publications/Korea.png"
     venue: "National Research Council for Economics, Humanities and Social Sciences 2020"
     selected: y
 
   - title: "Government R&D Support for SMEs: Policy Effects and Improvement Measures"
-    image: "/assets/publications/SMEs.png"
-    authors: "Sungho Lee and <b><u>Jingyeong Jo*</u></b>"
+    authors: "Sungho Lee* and <b><u>Jingyeong Jo*</u></b>"
     venue: "KDI Journal of Economic Policy 2018"
     paper_pdf: "https://kdijep.org/v.40/4/47/Government+R+D+Support+for+SMEs+Policy+Effects+and+Improvement+Measures#aff001"
     selected: y
 
   - title: "A Study for the Service Industry to Create Jobs and Innovation"
-    image: "/assets/publications/Korea.png"
     venue: "Ministry of Economy and Finance 2017"
     selected: y
 
   - title: "A Study for Establishing a Road Map for the Development of National Statistics"
-    image: "/assets/publications/Korea.png"
     venue: "Korea National Statistical Office 2017"
     selected: y
