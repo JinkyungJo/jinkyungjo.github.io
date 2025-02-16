@@ -7,7 +7,7 @@ papers:
     selected: y
     
   - title: "An Integrated Search System for Korea Weather Data"
-    authors: "<b><u>Jingyeong Jo</u></b>, Dayeon Ki, Soyoung Yoon and Minjoon Seo"
+    authors: "<b><u>Jinkyung Jo</u></b>, Dayeon Ki, Soyoung Yoon and Minjoon Seo"
     venue: "EMNLP Industry Track 2023"
     paper_pdf: "https://aclanthology.org/2023.emnlp-industry.71/"
     selected: y
