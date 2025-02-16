@@ -3,7 +3,7 @@ papers:
   - title: "The BIGGEN BENCH: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
     authors: "Seungone Kim, Juyoung Suk, Jiyong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Suehyun Park, Hyeonbin Hwang, <b><u>Jinkyung Jo</u></b>, Hyowon Cho, Haebin Shin, Seongyun Lee, Hanseok Oh, Noah Lee, Namgyu Ho, Sejune Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, and Minjoon Seo"
     venue: "NACCL 2025"
-    paper_pdf: ""
+    paper_pdf: "https://openreview.net/forum?id=mD6AaGLi4J"
     selected: y
     
   - title: "An Integrated Search System for Korea Weather Data"
