@@ -1,9 +1,15 @@
 papers:
 
+  - title: "The BIGGEN BENCH: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models"
+    authors: "Seungone Kim, Juyoung Suk, Jiyong Cho, Shayne Longpre, Chaeeun Kim, Dongkeun Yoon, Guijin Son, Yejin Cho, Sheikh Shafayat, Jinheon Baek, Suehyun Park, Hyeonbin Hwang, <b><u>Jinkyung Jo</u></b>, Hyowon Cho, Haebin Shin, Seongyun Lee, Hanseok Oh, Noah Lee, Namgyu Ho, Sejune Joo, Miyoung Ko, Yoonjoo Lee, Hyungjoo Chae, Jamin Shin, Joel Jang, Seonghyeon Ye, Bill Yuchen Lin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, and Minjoon Seo"
+    venue: "NACCL 2025"
+    paper_pdf: ""
+    selected: y
+    
   - title: "An Integrated Search System for Korea Weather Data"
     authors: "<b><u>Jingyeong Jo</u></b>, Dayeon Ki, Soyoung Yoon and Minjoon Seo"
     venue: "EMNLP Industry Track 2023"
-    paper_pdf: ""
+    paper_pdf: "https://aclanthology.org/2023.emnlp-industry.71/"
     selected: y
     
   - title: "Meta-analysis for the National Fiscal Management Plan"
